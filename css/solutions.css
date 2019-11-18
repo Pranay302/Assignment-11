@@ -1,5 +1,6 @@
-.row { margin: 0 !important }
-.solutions-data { height: 300px; overflow-y: scroll }
+.row { margin: 0 !important; }
+
+.solutions-data { height: 350px; overflow-y: hidden }
 
 .navbar {
     position: absolute;
@@ -15,4 +16,3 @@
     background-color: transparent;
 }
 .carousel-indicators li.active { background-color: white }
-.row { margin: 0 }
